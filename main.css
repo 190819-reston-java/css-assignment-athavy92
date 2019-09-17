@@ -1,0 +1,39 @@
+html {
+    background-color: #f8d9cb;
+    border: 5px solid brown;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+div {
+    border: 10px dashed orange;
+    background-color: yellow;
+    align-items: left;
+    width: 500px;
+    margin: 20px 50px, 20px 10px;
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+p {
+    font-size: 30px;
+}
+
+span {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.picture {
+    border: 10px solid orange;
+    align-items: left;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+}
+
+#text {
+    margin: 20px;
+}
